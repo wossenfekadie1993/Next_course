@@ -1,7 +1,7 @@
 import Link from 'next/link'
 export default function Helloworld(){
   return (
-<Link href="/product">product</Link>
+<Link href="/product">hello world</Link>
   )
   
 }
