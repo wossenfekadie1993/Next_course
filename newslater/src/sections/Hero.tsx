@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Hero() {
+const Hero = () => {
   return (
     <div>
-      
+      hero page
     </div>
   )
 }
+
+export default Hero

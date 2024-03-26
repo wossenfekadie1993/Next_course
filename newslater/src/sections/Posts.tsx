@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-export default function Posts() {
-  return (
-    <div>
-      
-    </div>
-  )
+export class Posts extends Component {
+  render() {
+    return (
+      <div>
+        posts page
+      </div>
+    )
+  }
 }
+
+export default Posts
